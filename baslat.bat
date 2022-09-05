@@ -1,6 +1,6 @@
 @echo off
 color 0
-title GURLU BOT
+title RIHCAMS BOT
 :a
 node index.js
 goto a
